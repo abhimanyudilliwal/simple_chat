@@ -1,0 +1,65 @@
+body {
+
+
+  min-height: 100vh;
+  background: #27ae60;
+  font-family: "proxima-nova", "Source Sans Pro", sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.1px;
+  color: #32465a;
+}
+.heading{
+
+style:bold;
+color:red;
+}
+.chat-rooms{
+  width: 90%;
+  margin:20px;
+  padding:30px;
+
+  height: 92vh;
+
+  background: #E6EAEA;
+}
+#chat-log{
+  min-width: 360px;
+  max-width: 1000px;
+  height: 70vh;
+  min-height: 300px;
+  max-height: 720px;
+  background: white;
+
+}
+#chat-message-submit{
+font-size:20px;
+
+
+}
+#chat-message-input{
+font-family:Arial;
+font-size:20px;
+width:75%;
+
+}
+.chat{
+width: 90%;
+  margin:20px;
+  padding:30px;
+
+  height: 20vh;
+
+  background: #E6EAEA;
+ }
+#room-name-input  {
+font-family:Arial;
+font-size:20px;
+width:80%;
+
+}
+#room-name-submit{
+font-size:20px;
+padding:3px;
+margin:5px;
+}
+
